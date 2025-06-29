@@ -1,4 +1,5 @@
 // main.ts
+//Jorge sanchez lopez
 import { ApolloServer } from "@apollo/server";
 import { typeDefs } from "./schema.ts";
 import { MongoClient } from "mongodb";
